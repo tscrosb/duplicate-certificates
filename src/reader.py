@@ -22,11 +22,4 @@ if __name__=='__main__':
     if smallfile:
         smallfile.close()
 
-    # for row in json_gen:
-        # json_line = json.loads(row)
-        # fingerprint = json_line['data']['leaf_cert']['fingerprint']
-        # row_count += 1
-
-    # print(f"Row count is {row_count}")
-
     

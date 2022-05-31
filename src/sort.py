@@ -26,5 +26,3 @@ if __name__=='__main__':
             return 0
 
     arr.sort(key=extract_fingerprint)
-
-    print(arr[0])
